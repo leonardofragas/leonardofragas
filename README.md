@@ -2,6 +2,17 @@
 
 ---
 
+🔭 I’m currently working on a marketing school (I'm the teacher).
+
+🌱 Right now I'm updating myself, before a long time without coding.
+
+👨‍💻 All of my projects are available at https://github.com/leonardofragas
+
+💬 Ask me about anything.
+
+📫 How to reach me leonardosouzafragas@gmail.com
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofragas&how_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
